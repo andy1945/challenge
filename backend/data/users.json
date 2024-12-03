@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Fred Bloggs",
+    "email": "fred@bloggs.com",
+    "password": "auspicious-shoe",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Freddy Bloggs",
+    "email": "freddy@bloggs.com",
+    "password": "miraculous-glove",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Brad Floggs",
+    "email": "brad@floggs.com",
+    "password": "impeccable-pocket",
+    "role": "user"
+  }
+]

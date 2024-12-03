@@ -1,0 +1,42 @@
+/* Ensure the table and content are centered */
+.admincontainer {
+  padding: 20px;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #ece3e3;
+  font-size: 1.5rem;
+}
+
+/* Loading indicator styling */
+.loading-indicator {
+  font-size: 1.5rem;
+  color: #555;
+  text-align: center;
+}
+.downloadbutton {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.downloadbutton:hover {
+  background-color: #0056b3;
+}

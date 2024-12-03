@@ -1,0 +1,38 @@
+.wrapper {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 50px 100px;
+  position: relative;
+}
+.nav {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+}
+
+.navlogo {
+  width: 40px; /* Adjust the width of the logo */
+  height: auto;
+  margin-right: 20px; /* Space between the logo and the links */
+}
+
+.navlinks {
+  display: flex;
+  gap: 30px;
+}
+
+.navlink {
+  text-decoration: none;
+  font-size: 18px;
+  color: rgb(163, 157, 157);
+}
+
+.navlink:hover {
+  color: #007bff;
+}
+.active {
+  color: rgb(233, 233, 239);
+  font-weight: bold;
+}

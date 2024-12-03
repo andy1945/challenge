@@ -1,0 +1,17 @@
+.logoutButton {
+  position: absolute; /* Position button absolutely within the wrapper */
+  top: 20px; /* Adjust distance from the top */
+  right: 20px; /* Adjust distance from the right */
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: #fff;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.logoutButton:hover {
+  background-color: #b52a3b;
+}

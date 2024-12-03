@@ -1,0 +1,67 @@
+.countryIcon {
+  user-select: none;
+}
+
+.clientsTable {
+  border-collapse: collapse;
+  margin: 25px 0;
+  min-width: 500px;
+  color: #fff;
+}
+
+.clientsTable thead tr {
+  background-color: var(--color-primary);
+  text-align: left;
+}
+
+.clientsTable th,
+.clientsTable td {
+  padding: 12px 15px;
+}
+
+.clientsTable tbody tr {
+  background-color: #2d2d2d;
+  border-bottom: 1px solid #888;
+}
+
+.clientsTable tbody tr:hover {
+  background-color: #464646;
+}
+
+.clientsTable tbody tr:nth-of-type(even) {
+  background-color: #363636;
+}
+
+.clientsTable tbody tr:nth-of-type(even):hover {
+  background-color: #464646;
+}
+
+.clientsTable tbody tr:last-of-type {
+  border-bottom: 2px solid #888;
+}
+
+@media (prefers-color-scheme: light) {
+  .clientsTable tbody {
+    color: #030303;
+  }
+  .clientsTable tbody tr {
+    background-color: #f1f1f1;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .clientsTable tbody tr:hover {
+    background-color: #e7e7e7;
+  }
+
+  .clientsTable tbody tr:nth-of-type(even) {
+    background-color: #e9e9e9;
+  }
+
+  .clientsTable tbody tr:nth-of-type(even):hover {
+    background-color: #dfdfdf;
+  }
+
+  .clientsTable tbody tr:last-of-type {
+    border-bottom: 2px solid #ccc;
+  }
+}

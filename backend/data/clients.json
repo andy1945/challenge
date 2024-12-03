@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Radiant Innovations",
+    "country": "GB",
+    "revenue": 25000
+  },
+  {
+    "id": 2,
+    "name": "CultureTech",
+    "country": "GB",
+    "revenue": 89000
+  },
+  {
+    "id": 3,
+    "name": "Applied Dynamics",
+    "country": "US",
+    "revenue": 43000
+  },
+  {
+    "id": 4,
+    "name": "Nexera",
+    "country": "FR",
+    "revenue": 61000
+  },
+  {
+    "id": 5,
+    "name": "Infrazyme",
+    "country": "GB",
+    "revenue": 127000
+  },
+  {
+    "id": 6,
+    "name": "BigTek",
+    "country": "DE",
+    "revenue": 77000
+  },
+  {
+    "id": 7,
+    "name": "Dynamis",
+    "country": "US",
+    "revenue": 33000
+  },
+  {
+    "id": 8,
+    "name": "Massify",
+    "country": "FR",
+    "revenue": 54000
+  },
+  {
+    "id": 9,
+    "name": "Industriosa",
+    "country": "IT",
+    "revenue": 101000
+  },
+  {
+    "id": 10,
+    "name": "Omniforge",
+    "country": "GB",
+    "revenue": 68000
+  }
+]
